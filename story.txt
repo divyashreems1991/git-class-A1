@@ -1,2 +1,3 @@
 Write your answers her!
 This is Devops Lab
+**DevOps** is a combination of **Development (Dev)** and **Operations (Ops)** that helps teams build, test and deliver software faster and more reliably
